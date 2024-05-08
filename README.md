@@ -103,3 +103,5 @@ coerente:
 •Exemplo: myLogin seq> date > datefile &
 - Tratamento de erro e outras situações
 
+Atividade Criada pelo Professor Erico Souza Texeira
+
